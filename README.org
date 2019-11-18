@@ -1,3 +1,4 @@
 #+TITLE: poetry.el
 
-A few fns for working with [[https://poetry.eustace.io/][poetry]] projects.
+A few fns for working with [[https://poetry.eustace.io/][poetry]] projects. Mostly for things like switching
+venvs, linking-unlinking installations from other venvs etc.
