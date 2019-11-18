@@ -1,0 +1,3 @@
+#+TITLE: poetry.el
+
+A few fns for working with [[https://poetry.eustace.io/][poetry]] projects.
