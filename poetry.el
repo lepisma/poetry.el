@@ -4,7 +4,7 @@
 
 ;; Author: Abhinav Tushar <lepisma@fastmail.com>
 ;; Version: 0.0.1
-;; Package-Requires: ((emacs "26"))
+;; Package-Requires: ((emacs "26") (f "0.20.0") (helm "3.5.0") (pyvenv "1.21"))
 
 ;;; Commentary:
 
